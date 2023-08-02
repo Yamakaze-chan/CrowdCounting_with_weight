@@ -7,4 +7,15 @@ Link to dataset:
 https://pan.baidu.com/share/init?surl=VENBbBBbIoS929DMaN5Uug (code: ix2v) - pre-processed ShanghaiTech Part_A training   
 https://pan.baidu.com/share/init?surl=lagHgw3gshIBmPTHIbkzRw (code: h7a6) - ShanghaiTech Part_A testing   
 https://pan.baidu.com/share/init?surl=V5kVYdyF7Cs5SVlyVm2zGg (code: 3cfp) - VGG16 backbone pretrained on SHT Part_A   
-https://1drv.ms/u/s!Atb46kl_Ra3rjkPWiQ5ay3zEwGAG?e=grlZX7 - Pretrained model with the result is mae=59.2706,mse=95.2439 at epoch 32
+https://1drv.ms/u/s!Atb46kl_Ra3rjkPWiQ5ay3zEwGAG?e=grlZX7 - Pretrained model with the result is mae=59.2706,mse=95.2439 at epoch 32   
+Paper:   
+https://arxiv.org/abs/2007.08260   
+Weighing Counts: Sequential Crowd Counting by Reinforcement Learning
+
+Proc. European Conference on Computer Vision (ECCV), 2020
+
+Liang Liu1,†, Hao Lu2,†, Hongwei Zou1, Haipeng Xiong1, Zhiguo Cao1, Chunhua Shen1
+
+1Huazhong University of Science and Technology
+
+2The University of Adelaide, Australia
